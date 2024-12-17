@@ -5,7 +5,7 @@ export default {
     },
     autoStart: false,
     instance: {
-      dbName: 'cdp-node-backend-template'
+      dbName: 'find-ffa-playground'
     }
   },
   mongoURLEnvName: 'MONGO_URI',
